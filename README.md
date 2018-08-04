@@ -1,2 +1,2 @@
 # widget-testing
-Widget Testing Site, for 3rd party installable widgets, in comparison with BawkBox.com
+Widget Testing Site, for testing and reviewing 3rd party installable widgets.
