@@ -1,0 +1,9 @@
+<html>
+	<head>
+		<title>Paypal Button</title>
+	</head>
+	<body>
+    <script src="//www.powr.io/powr.js?external-type=html"></script> 
+    <div class="powr-paypal-button" id="d6ef26b0_1533896011"></div>
+	</body>
+</html>
