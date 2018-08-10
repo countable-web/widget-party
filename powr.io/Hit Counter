@@ -1,0 +1,9 @@
+<html>
+	<head>
+		<title>Hit Counter</title>
+	</head>
+	<body>
+     <script src="//www.powr.io/powr.js?external-type=html"></script> 
+     <div class="powr-hit-counter" id="0a563d2d_1533895767"></div>
+	</body>
+</html>
