@@ -1,0 +1,9 @@
+<html>
+	<head>
+		<title>Multi Slider</title>
+	</head>
+	<body>
+    <script src="//www.powr.io/powr.js?external-type=html"></script> 
+    <div class="powr-multi-slider" id="f482476b_1533895692"></div>
+	</body>
+</html>
